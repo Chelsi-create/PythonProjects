@@ -1,0 +1,2 @@
+('Chelsi jain', '9587871234', 'Female', '9587871234', 'net banking', 1)
+('Cheril Jain', '9414157130', 'Female', '9414157130', 'credit card', 1)
